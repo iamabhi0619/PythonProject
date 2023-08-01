@@ -69,6 +69,8 @@ if(us>cs):
     print(name,",You wins the game..!!")
 elif(cs>us):
     print("Computer Wins the game..!!")
+elif(cs==us):
+    print("It's a Tie...!!")
 else:
     print("All Five where Ties..!!")
 print("Thank You..!!")
