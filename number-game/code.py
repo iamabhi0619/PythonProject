@@ -28,7 +28,6 @@ def turn(level):
     return chance
 def guess(ch,gn,ai):
     while ch > 0:
-        print(ai)
         if gn == ai:
             print("You have gussed the number correctly..!!")
             break
