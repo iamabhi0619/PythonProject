@@ -1,9 +1,5 @@
-!pip install pyfiglet==0.7
 from random import randint
-from pyfiglet import figlet_format
-# text=pyfiglet.print_figlet(text="Guess The Number",colour="BLUE",font="isometric1")
-# print(text)
-print(figlet_format("Guess The Number", font = "isometric1"))
+print("GUESS THE NUMBER")
 print("Guess the number between 1 to 50..!!")
 print("""
 Easy Level:
