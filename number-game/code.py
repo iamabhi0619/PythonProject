@@ -1,3 +1,4 @@
+!pip install pyfiglet==0.7
 from random import randint
 from pyfiglet import figlet_format
 # text=pyfiglet.print_figlet(text="Guess The Number",colour="BLUE",font="isometric1")
