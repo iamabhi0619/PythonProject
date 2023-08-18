@@ -1,3 +1,5 @@
+from random import randint
+
 def main():
     print("GUESS THE NUMBER")
     print("Guess the number between 1 to 50..!!")
